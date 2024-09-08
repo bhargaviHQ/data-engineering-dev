@@ -1,0 +1,60 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Spark temporary files
+spark-warehouse/
+spark-logs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Test results
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.log
+
+# mypy
+.mypy_cache/
+
+# Cython debug symbols
+cython_debug/
+
+# If using Docker
+docker-compose.override.yml
+
+
+**/.DS_Store
+**/._.DS_Store
+._.DS_Store
+.DS_Store
+
