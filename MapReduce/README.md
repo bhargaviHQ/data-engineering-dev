@@ -21,3 +21,4 @@ This project implements a MapReduce solution to identify the longest word given 
 - **MapReduce**: Framework for parallel data processing.
 
 This project demonstrates a practical use of MapReduce for text analysis and showcases the efficiency of distributed computing in handling large-scale data processing tasks.
+
